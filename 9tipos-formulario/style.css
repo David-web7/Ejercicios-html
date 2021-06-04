@@ -1,0 +1,11 @@
+body {
+    background-image:url(./Perico.png); width:"500" hie;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: white;
+}
+label{
+    color: red;
+}
